@@ -35,4 +35,5 @@ if uploaded_file:
     # Mostrar tags
     if analysis.tags:
         st.subheader("🏷️ Etiquetas:")
-        st
+        st.write([tag.name for tag in analysis.tags])
+
