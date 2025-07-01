@@ -1,2 +1,4 @@
 streamlit
-requests
+azure-cognitiveservices-vision-computervision
+msrest
+Pillow
